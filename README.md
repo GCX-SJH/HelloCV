@@ -1,6 +1,5 @@
 # HelloCV
 这是我的linux作业和git作业
-这个是Linux实践和学习笔记都在这个链接
 - [Linux学习和实践记录](https://www.yuque.com/xiaoguoguo-gpcgp/egitu7/zo6b0ei015pupvk6)
 这个是我git的学习笔记
 - [Git 学习记录](https://www.yuque.com/xiaoguoguo-gpcgp/egitu7/pmlp4g5piepy4nts)
