@@ -5,3 +5,5 @@
 - [Git 学习记录](https://www.yuque.com/xiaoguoguo-gpcgp/egitu7/pmlp4g5piepy4nts)
 这个是我的实践记录
 - [Git 实践记录](https://www.yuque.com/xiaoguoguo-gpcgp/egitu7/ewvb1unugtro4ne3)
+这个是gitee网址
+[git_training 仓库](https://gitee.com/little-potty/git_training)
