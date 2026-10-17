@@ -1,9 +1,6 @@
 # HelloCV
-这是我的linux作业和git作业
-- [Linux学习和实践记录](https://www.yuque.com/xiaoguoguo-gpcgp/egitu7/zo6b0ei015pupvk6)
-这个是我git的学习笔记
-- [Git 学习记录](https://www.yuque.com/xiaoguoguo-gpcgp/egitu7/pmlp4g5piepy4nts)
-这个是我的实践记录
-- [Git 实践记录](https://www.yuque.com/xiaoguoguo-gpcgp/egitu7/ewvb1unugtro4ne3)
-这个是gitee网址
-[git_training 仓库](https://gitee.com/little-potty/git_training)
+这是我的Cmake作业和LLM作业
+这个是CMake学习笔记  https://www.yuque.com/xiaoguoguo-gpcgp/egitu7/hl38uant0hlzv8lg
+这个是CMake实践记录  https://www.yuque.com/xiaoguoguo-gpcgp/egitu7/awy0v04yi2yq6ub1
+这个是我的gitee仓库连接    https://gitee.com/little-potty/mywork
+这个是我的LLM实践记录    https://www.yuque.com/xiaoguoguo-gpcgp/egitu7/xi2dsxfpbmgf17e7
